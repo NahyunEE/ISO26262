@@ -26,21 +26,26 @@
 <br>  #6. Product development at the software level </br>
 <br></br>
 <br>source: https://www.kekaoxing.com/wp-content/uploads/standard/ISO26262-2018/ISO-26262-6-2018.pdf</br>
+<br></br>
 <br>  #7. Production, operation , service and decommissioning </br>
 <br></br>
 <br>source: https://www.kekaoxing.com/wp-content/uploads/standard/ISO26262-2018/ISO-26262-7-2018.pdf</br>
 <br>  #8. Supporting Process </br>
 <br></br>
 <br>source: https://www.kekaoxing.com/wp-content/uploads/standard/ISO26262-2018/ISO-26262-8-2018.pdf</br>
+<br></br>
 <br>  #9. Automotive safety integrity level - oriented and safety-oriented analysis </br>
 <br></br>
 <br>source: https://www.kekaoxing.com/wp-content/uploads/standard/ISO26262-2018/ISO-26262-9-2018.pdf</br>
+<br></br>
 <br>  #10.Guidelines on ISO26262  </br>
 <br></br>
 <br>source: https://www.kekaoxing.com/wp-content/uploads/standard/ISO26262-2018/ISO-26262-10-2018.pdf</br>
+<br></br>
 <br>  #11.Guidelines on application of ISO 26262 to semiconductor  </br>
 <br></br>
 <br>source: https://www.kekaoxing.com/wp-content/uploads/standard/ISO26262-2018/ISO-26262-11-2018.pdf</br>
+<br></br>
 <br>  #12.Adaptation of ISO 26262 for  motorcycle </br>
 <br></br>
 <br>source: https://www.kekaoxing.com/wp-content/uploads/standard/ISO26262-2018/ISO-26262-12-2018.pdf</br>
